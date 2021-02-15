@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "QuickSort\QuickSort.csproj", "{0DBCB39C-FAE3-4772-9165-49AFECEDE31A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTables", "HashTables\HashTables.csproj", "{DA37A0A9-63CD-43BE-910E-43EAF260F4B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTables", "HashTables\HashTables.csproj", "{DA37A0A9-63CD-43BE-910E-43EAF260F4B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{A1CE2657-3539-428A-8974-2B8807A4CF71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{A1CE2657-3539-428A-8974-2B8807A4CF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasAlgorithm", "DijkstrasAlgorithm\DijkstrasAlgorithm.csproj", "{C62B4F56-F3C4-4316-8B9F-EC63215FA955}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A1CE2657-3539-428A-8974-2B8807A4CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CE2657-3539-428A-8974-2B8807A4CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CE2657-3539-428A-8974-2B8807A4CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62B4F56-F3C4-4316-8B9F-EC63215FA955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62B4F56-F3C4-4316-8B9F-EC63215FA955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62B4F56-F3C4-4316-8B9F-EC63215FA955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62B4F56-F3C4-4316-8B9F-EC63215FA955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
